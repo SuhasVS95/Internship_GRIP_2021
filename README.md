@@ -1,6 +1,8 @@
 # Internship_GRIP_2021
 Data Science and Business Analytics Internship at Sparks Foundation
 
+# TASK-1 SUPERVISED LEARNING
+
 # Problem Statement
 Predict the percentage of an student based on the no. of study hours
 
@@ -44,6 +46,37 @@ Residual plot:
 Final prediction:
 
 ![image](https://user-images.githubusercontent.com/70081663/121668009-7af3cc80-cac8-11eb-8b2e-6d3cf6d89dcf.png)
+
+
+# TASK-2 UNSUPERVISED LEARNING
+
+# Problem Statement
+
+From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+
+The dataset contains a set of 150 records under 5 attributes - Petal Length, Petal Width, Sepal Length, Sepal width and Class(Species).
+
+# Tasks Completed:
+
+1. Explanatory Data Analysis
+2. KMeans Clustering
+3. Finding Optimal K value using Elbow curve
+4. Profiling of the clusters
+5. Cluster Visualization
+
+# Results:
+
+Profiling:
+
+![image](https://user-images.githubusercontent.com/70081663/121802614-d35ad380-cc5a-11eb-971a-0f723157e3aa.png)
+
+Vizualization:
+
+![image](https://user-images.githubusercontent.com/70081663/121802948-b7583180-cc5c-11eb-83b6-b6a138fe45ac.png)
+
+![image](https://user-images.githubusercontent.com/70081663/121802959-c4752080-cc5c-11eb-84cd-5a53c57abee0.png)
+
+
 
 
 
